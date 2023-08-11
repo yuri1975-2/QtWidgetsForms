@@ -25,42 +25,42 @@
      <item>
       <widget class="QLabel" name="label1">
        <property name="text">
-        <string>Текст1</string>
+        <string>Text1</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QLabel" name="label2">
        <property name="text">
-        <string>Текст2</string>
+        <string>Text2</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QLabel" name="label3">
        <property name="text">
-        <string>Текст3</string>
+        <string>Text3</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QLabel" name="label4">
        <property name="text">
-        <string>Текст4</string>
+        <string>Text4</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QLabel" name="label5">
        <property name="text">
-        <string>Текст5</string>
+        <string>Text5</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QLabel" name="label6">
        <property name="text">
-        <string>Текст6</string>
+        <string>Text6</string>
        </property>
       </widget>
      </item>
