@@ -32,56 +32,56 @@
      <item>
       <widget class="QPushButton" name="btnLogin">
        <property name="text">
-        <string>Войти</string>
+        <string>Login</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton1">
        <property name="text">
-        <string>Кнопка1</string>
+        <string>Button1</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton2">
        <property name="text">
-        <string>Кнопка2</string>
+        <string>Button2</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton3">
        <property name="text">
-        <string>Кнопка3</string>
+        <string>Button3</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton4">
        <property name="text">
-        <string>Кнопка4</string>
+        <string>Button4</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton5">
        <property name="text">
-        <string>Кнопка5</string>
+        <string>Button5</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnButton6">
        <property name="text">
-        <string>Кнопка6</string>
+        <string>Button6</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnNewForm">
        <property name="text">
-        <string>Новое окно</string>
+        <string>New Window</string>
        </property>
       </widget>
      </item>
